@@ -26,7 +26,8 @@
   <img align="center" alt="Th-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Th-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Th-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Th-nodejs" height="30" width="40" src="https://user-images.githubusercontent.com/72468632/151837597-1cafe7d3-1faa-44db-b9a7-d65b83fb776e.png" />
+  <img align="center" alt="Th-java" height="30" width="40" src="https://user-images.githubusercontent.com/72468632/151837988-c9c4825c-bc50-47d6-8d69-37de86f67f6e.png" />
+
   <img align="right" alt="Th-gif" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
 </div>
