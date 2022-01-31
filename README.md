@@ -27,6 +27,7 @@
   <img align="center" alt="Th-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Th-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Th-java" height="30" width="40" src="https://user-images.githubusercontent.com/72468632/151837988-c9c4825c-bc50-47d6-8d69-37de86f67f6e.png" />
+  <img align="center" alt="Th-java" height="30" width="40" src="https://img2.gratispng.com/20180730/tua/kisspng-vue-js-javascript-library-react-angularjs-hsv-logo-5b5ec7875b3ec4.1961775115329381193738.jpg" />
 
   <img align="right" alt="Th-gif" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
