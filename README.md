@@ -29,7 +29,7 @@
   <img align="center" alt="Th-vue" height="30" width="40" src="./images/vue-logo.png" />
   <img align="center" alt="Th-java" height="30" width="40" src="https://user-images.githubusercontent.com/72468632/151837988-c9c4825c-bc50-47d6-8d69-37de86f67f6e.png" />
   
-  <img align="center" alt="Th-java" height="30" width="40" src="./images/redux.svg" />
+  <img align="center" alt="Th-redux" height="30" width="40" src="./images/redux.svg" />
 
   <img align="right" alt="Th-gif" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
