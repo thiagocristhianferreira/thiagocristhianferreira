@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Full Stack Sênior · Engenheiro</h3>
 
 <p align="center">
-  Construo e mantenho sistemas em produção há mais de 4 anos — do front-end à infraestrutura.
+  Construo e mantenho sistemas em produção há mais de 6 anos — do front-end à infraestrutura.
   <br/>
   Experiência sólida em integração de sistemas, migração de dados em larga escala e automação de processos críticos.
 </p>
