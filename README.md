@@ -24,14 +24,18 @@
 
 ### 🚀 Sobre mim
 
-Atuo como Desenvolvedor Full Stack, com foco em resolver problemas reais de negócio através de software. No meu dia a dia trabalho com:
+Sou Desenvolvedor Full Stack com foco em resolver problemas reais de negócio — não apenas escrever código, mas entregar **impacto mensurável**.
 
-- **Integração e migração de dados** entre sistemas de empresas adquiridas — ajudei a reduzir o tempo de uma migração de **1 mês para 3 dias**.
-- **Automação de processos** — desenvolvi uma API que centraliza regras de negócio para criação massiva de chamados e ordens de serviço a partir de relatórios `.CSV`.
-- **Estabilização de sistemas** — investigação, correção e tratamento de erros em produção.
-- **Observabilidade** — monitoramento de aplicações com Grafana.
+Tenho experiência sólida em:
 
-Formado em Engenharia e em constante evolução técnica. Apaixonado por código limpo, testes e por entender o "porquê" por trás de cada solução.
+- **Integração e migração de dados** — reduzi o tempo de uma migração crítica de **1 mês para 3 dias**, garantindo continuidade operacional em processos de M&A.
+- **Automação de processos de negócio** — desenvolvi APIs que centralizam regras de negócio e eliminam trabalho manual, transformando relatórios `.CSV` em chamados e ordens de serviço em escala.
+- **Estabilização e confiabilidade de sistemas** — atuo na linha de frente em produção: investigação, diagnóstico e correção de falhas com foco em reduzir o tempo de indisponibilidade.
+- **Observabilidade** — monitoramento de aplicações com Grafana, antecipando falhas antes que virem incidentes.
+
+Engenheiro de formação, com mentalidade orientada a qualidade: código limpo, cobertura de testes e decisões técnicas embasadas no **porquê** — não apenas no **como**.
+
+> Gosto de entender o problema a fundo antes de escrever a primeira linha. É isso que diferencia software que **funciona** de software que **resolve**.
 
 ---
 
